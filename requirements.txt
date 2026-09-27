@@ -1,0 +1,2 @@
+# R packages required to run the scripts in src/
+plotly
